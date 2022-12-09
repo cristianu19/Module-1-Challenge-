@@ -1,4 +1,4 @@
-# 01_Code_Refactor_JGR
+# Module 1 Challenge
 Module 1 Challenge
 
 ## The Challenge
